@@ -1,0 +1,24 @@
+ 
+
+ --- Front end ---
+ -> create Homepage (List of blogs)
+ -> create a single blog page (specific blog page)
+ -> Login page
+ -> signup page
+ -> User Dashboard with list of that user's blog
+ -> edit blog page
+ -> edit user page
+
+ --- Back end ----
+-> create Table users
+-> create Table blogs
+-> enter dummy data in both the tables
+-> create routes of blogs
+-> create cotrollers of blogs 
+-> create routes of users
+-> create cotrollers of users
+
+
+--- connecting both frontend and backend
+-> Test all the routes with postman
+-> fetch data from api and shaow it on the frontend
